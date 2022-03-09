@@ -8,4 +8,4 @@ idf_component_register(SRCS "Adafruit_I2CDevice.cpp" "Adafruit_BusIO_Register.cp
                        INCLUDE_DIRS "."
                        REQUIRES arduino)
 
-project(Adafruit_BusIO)
+project(adafruit_busio)
